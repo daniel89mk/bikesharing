@@ -7,9 +7,11 @@ This analysis has been conducted to show our investors that this bike-sharing pr
 ## Results
 
 ![story_2](story_2.png)
-https://public.tableau.com/app/profile/kimberly.kang/viz/Story2_CheckoutTimesbyGender/Story2?publish=yes
+
+  - Link to the story - https://public.tableau.com/app/profile/kimberly.kang/viz/Story2_CheckoutTimesbyGender/Story2?publish=yes
 
 ![story_3](story_3.png)
-https://public.tableau.com/app/profile/kimberly.kang/viz/Story3_TripsbyWeekdayforEachHour/Story3?publish=yes
+
+  - Link to the story - https://public.tableau.com/app/profile/kimberly.kang/viz/Story3_TripsbyWeekdayforEachHour/Story3?publish=yes
 
 ## Summary
