@@ -31,5 +31,12 @@ This analysis has been conducted to show our investors that this bike-sharing pr
 
   - Link to the dashboard - https://public.tableau.com/app/profile/kimberly.kang/viz/Dashboard2-TripDurationbyBirthYearbyWeekday/Dashboard2
 
+### Trips at Start Stations Vs. End Stations
+##### It doesn't show that much of difference between them but we can tell that in the city at both start stations and end stations, the rides are packed.
+
+![startandendstations](startandendstations.png)
+
+  - Link to the dashboard - https://public.tableau.com/app/profile/kimberly.kang/viz/Dashboard1-TripsatStartEndstations/Dashboard1
+
 
 ## Summary
