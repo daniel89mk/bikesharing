@@ -1,4 +1,4 @@
-# bikesharing
+# Bike Sharing
 Tableau Visualization Analysis!
 
 ## Overview of the analysis
