@@ -38,11 +38,14 @@ This analysis has been conducted to show our investors that this bike-sharing pr
 
   - Link to the dashboard - https://public.tableau.com/app/profile/kimberly.kang/viz/Dashboard1-TripsatStartEndstations/Dashboard1
   
-### User Trips by Gender by Weekdays
-##### Male subscribers used the bike sharing service the most and also it's more on the subscribers who used the bike sharing more than non-subscribing customers.
+### User Trips
+##### Subscribers used the bike sharing service way more than non-subscribing customers throughout the weekdays. 
+##### Also, when we look at it by gender, Male subscribers used the bike sharing service the most.
 
 ![UserTrips_by_Gender_byWeekdays](UserTrips_by_Gender_byWeekdays.png)
 
-- Link to the dashboard - https://public.tableau.com/app/profile/kimberly.kang/viz/Story1_UserTripsbyGenderbyWeekday/Story1
+- Link to the dashboard - https://public.tableau.com/app/profile/kimberly.kang/viz/Dahsboard3-UserTrips/Dashboard3?publish=yes
 
 ## Summary
+
+We looked at the data from NYC Citi Bike rides data, and it is sufficient to state that this bike sharing service is worth money to move forward.
