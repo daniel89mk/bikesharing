@@ -42,7 +42,7 @@ This analysis has been conducted to show our investors that this bike-sharing pr
 ##### Subscribers used the bike sharing service way more than non-subscribing customers throughout the weekdays. 
 ##### Also, when we look at it by gender, Male subscribers used the bike sharing service the most.
 
-![UserTrips_by_Gender_byWeekdays](UserTrips_by_Gender_byWeekdays.png)
+![UserTrips](UserTrips.png)
 
 - Link to the dashboard - https://public.tableau.com/app/profile/kimberly.kang/viz/Dahsboard3-UserTrips/Dashboard3?publish=yes
 
