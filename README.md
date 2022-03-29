@@ -24,7 +24,7 @@ This analysis has been conducted to show our investors that this bike-sharing pr
 
   - Link to the story - https://public.tableau.com/app/profile/kimberly.kang/viz/Story3_TripsbyWeekdayforEachHour/Story3?publish=yes
 
-### Trip Duration by Birth Year by Weekday
+### Trip Duration by Birth Year by Weekdays
 ##### This visualization is telling us that people who were born later than 1940s use the bike riding a lot and the trip duration is spreadout between 0-60 minutes throughout the week.
 
 ![tripduration_by_birthyear_by_weekday](tripduration_by_birthyear_by_weekday.png)
@@ -37,6 +37,12 @@ This analysis has been conducted to show our investors that this bike-sharing pr
 ![startandendstations](startandendstations.png)
 
   - Link to the dashboard - https://public.tableau.com/app/profile/kimberly.kang/viz/Dashboard1-TripsatStartEndstations/Dashboard1
+  
+### User Trips by Gender by Weekdays
+##### Male subscribers used the bike sharing service the most and also it's more on the subscribers who used the bike sharing more than non-subscribing customers.
 
+![UserTrips_by_Gender_byWeekdays](UserTrips_by_Gender_byWeekdays.png)
+
+- Link to the dashboard - https://public.tableau.com/app/profile/kimberly.kang/viz/Story1_UserTripsbyGenderbyWeekday/Story1
 
 ## Summary
