@@ -24,4 +24,11 @@ This analysis has been conducted to show our investors that this bike-sharing pr
 
   - Link to the story - https://public.tableau.com/app/profile/kimberly.kang/viz/Story3_TripsbyWeekdayforEachHour/Story3?publish=yes
 
+### Trip Duration by Birth Year by Weekday
+
+![tripduration_by_birthyear_by_weekday](tripduration_by_birthyear_by_weekday.png)
+
+  - Link to the dashboard - https://public.tableau.com/app/profile/kimberly.kang/viz/Dashboard2-TripDurationbyBirthYearbyWeekday/Dashboard2
+
+
 ## Summary
