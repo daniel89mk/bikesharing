@@ -1,5 +1,5 @@
 # Bike Sharing
-Tableau Visualization Analysis!
+Tableau Visualization Analysis! This data is based on the NYC Citi Bike Rides data from August 2019. 
 
 ## Overview of the analysis
 This analysis has been conducted to show our investors that this bike-sharing program in Des Moines is a solid business proposal. 
